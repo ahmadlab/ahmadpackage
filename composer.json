@@ -1,0 +1,7 @@
+{
+    "name": "ahmad/hitung",
+    "description": "test my package",
+    "type": "project",
+    "license": "MIT",
+    "require": {}
+}
